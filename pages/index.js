@@ -46,7 +46,7 @@ export default function Home() {
 
         <Footer />
       </QuizContainer>
-      <GitHubCorner projectUrl="https://github.com/rnmartins" />
+      <GitHubCorner projectUrl="https://github.com/rnmartins/doula-quiz" />
     </QuizBackground>
   );
 }
